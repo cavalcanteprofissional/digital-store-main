@@ -51,7 +51,7 @@ Digital Store é uma plataforma de e-commerce especializada na venda de sneakers
 git clone https://github.com/digitalcollegebr/projeto-digital-store.git
 
 # Acesse o diretório
-cd e-commerce_lojavirtual
+cd e-commerce_frontend
 
 # Instale as dependências
 npm install
